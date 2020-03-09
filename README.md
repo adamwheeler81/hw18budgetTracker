@@ -1,24 +1,14 @@
 # Unit-18-PWA-Homework
 Unit 18 PWA Homework - Online/Offline Budget Trackers
-
-![Bootcamp Homework 18 shield](https://img.shields.io/badge/Bootcamp-Unit_18_PWA_Homework-green)  
+ 
 
 
 [Link to deployed app](https://shrouded-reaches-04951.herokuapp.com/) 
 (Click to open app)
 
-GitHub Repo:    https://github.com/cbush2014/Unit-18-PWA-Homework
-Portfolio Page:   https://cbush2014.github.io/
+GitHub Repo:    https://github.com/adamwheeler81/hw18budgetTracker
 
 
-## Table of contents
-* [General info](#general-info)  
-* [User Story](#user-story)  
-* [Instruction](#instructions)  
-* [Business Context](#business-contect)  
-* [Acceptance Criteria](#acceptance)  
-* [Screenshots](#screenshots)  
-* [Features](#features)  
 
 ## General info
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
