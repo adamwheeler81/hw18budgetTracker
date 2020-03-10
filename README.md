@@ -3,7 +3,7 @@ Unit 18 PWA Homework - Online/Offline Budget Trackers
  
 
 
-[Link to deployed app](https://shrouded-reaches-04951.herokuapp.com/) 
+[Link to deployed app](https://offline-budget-racker.herokuapp.com) 
 (Click to open app)
 
 GitHub Repo:    https://github.com/adamwheeler81/hw18budgetTracker
@@ -11,7 +11,7 @@ GitHub Repo:    https://github.com/adamwheeler81/hw18budgetTracker
 
 
 ## General info
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+A Budget Tracker application to allow for offline access and functionality.
 
 ## User Story
 AS AN avid traveller
@@ -22,8 +22,8 @@ SO THAT my account balance is accurate when I am traveling
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ## Screenshots
-![Example screenshot](./public/assets/images/offline.png)
-![Example screenshot](./public/assets/images/online.png)
+![Example screenshot](./public/assets/images/offline-budgetTracker.png)
+![Example screenshot](./public/assets/images/online-budgetTracker.png)
 
 ## Features
 
